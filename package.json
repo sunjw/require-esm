@@ -10,9 +10,9 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@babel/core": "^7.28.5",
+    "@babel/core": "^7.29.0",
     "@babel/plugin-transform-export-namespace-from": "^7.27.1",
-    "@babel/plugin-transform-modules-commonjs": "^7.27.1",
-    "node-abi": "^3.80.0"
+    "@babel/plugin-transform-modules-commonjs": "^7.28.6",
+    "node-abi": "^4.28.0"
   }
 }
